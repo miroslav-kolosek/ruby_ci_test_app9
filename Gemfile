@@ -52,6 +52,7 @@ gem 'simplecov', require: false, group: :test
 
 gem 'rubocop'
 gem 'reek'
+gem "rubycritic", require: false
 
 # Enforce Rails best practices and coding conventions
 gem 'rubocop-rails', require: false
